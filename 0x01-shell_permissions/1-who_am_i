@@ -19,3 +19,7 @@ pwd
 whoami
 #!/bin/bash
 pwd
+#!/bin/bash
+chmod u+x #!/bin/bash
+#!/bin/bash
+pwd
