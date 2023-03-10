@@ -4,3 +4,14 @@ whoami
 whoami
 #!/bin/bash
 whoami
+#!/bin/bash
+whoami
+chmod u+x 1-who_am_i
+git add .
+clear
+[C[C[C[C[C[C[C[C[C[C
+
+
+#!/bin/bash
+whoami
+pwd
