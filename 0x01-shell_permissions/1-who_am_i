@@ -15,3 +15,7 @@ clear
 #!/bin/bash
 whoami
 pwd
+#!/bin/bash
+whoami
+#!/bin/bash
+pwd
