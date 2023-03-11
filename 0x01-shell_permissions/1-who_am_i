@@ -25,3 +25,7 @@ chmod u+x #!/bin/bash
 pwd
 #!/bin/bassh
 Is
+#!/bin/bash
+whoami
+#!/bin/bash
+whoami
